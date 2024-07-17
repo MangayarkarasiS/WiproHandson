@@ -1,0 +1,15 @@
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\bin\Debug\net7.0\WiproSample.exe
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\bin\Debug\net7.0\WiproSample.deps.json
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\bin\Debug\net7.0\WiproSample.runtimeconfig.json
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\bin\Debug\net7.0\WiproSample.dll
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\bin\Debug\net7.0\WiproSample.pdb
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.csproj.AssemblyReference.cache
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.AssemblyInfoInputs.cache
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.AssemblyInfo.cs
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.csproj.CoreCompileInputs.cache
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.dll
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\refint\WiproSample.dll
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.pdb
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\WiproSample.genruntimeconfig.cache
+C:\Users\Mangai\source\repos\WiproBatch2\WiproSample\WiproSample\obj\Debug\net7.0\ref\WiproSample.dll
